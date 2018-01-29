@@ -1,0 +1,11 @@
+pluto_atm_april2016.xls was originally called "Pluto ATM Model fo REX Solar P Occ v6.xls"
+We got it from Darrell Strobel in April of 2016.
+
+pluto_atm_unknowndate.csv was originally called Strobel.pluto_ztp_20-microbar-hqcgs-1.csv
+I got it from Delamere. He's not sure where it came from but it might be from pre-NH data.
+I converted the line endings from mac to unix style
+
+pluto_atm_post_NH.csb was originally called 
+Pluto_post_NH_atmosphere_fit_to_REX_OCC_POCC_Tinf_69.5K.csv
+I got it from Delamere.
+I converted the line endings from mac to unix style
